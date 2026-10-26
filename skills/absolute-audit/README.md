@@ -28,4 +28,4 @@ Authorized defensive use — audits your own repository. Complements the built-i
 
 ## Maintainers
 
-- [@maddhruv](https://github.com/maddhruv)
+- [@dhruvjainin](https://github.com/dhruvjainin)

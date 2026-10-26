@@ -36,4 +36,4 @@ Nothing is written until the design is approved. Every phase ends with a hard ga
 
 ## Maintainers
 
-- [@maddhruv](https://github.com/maddhruv)
+- [@dhruvjainin](https://github.com/dhruvjainin)

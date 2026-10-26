@@ -28,4 +28,4 @@ Runs on green `main`. For diff-scoped cleanup use `/absolute-simplify`.
 
 ## Maintainers
 
-- [@maddhruv](https://github.com/maddhruv)
+- [@dhruvjainin](https://github.com/dhruvjainin)

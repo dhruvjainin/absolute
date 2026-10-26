@@ -34,4 +34,4 @@ Output: a `docs/plans/YYYY-MM-DD-<topic>-design.md` with a weighted reviewer sco
 
 ## Maintainers
 
-- [@maddhruv](https://github.com/maddhruv)
+- [@dhruvjainin](https://github.com/dhruvjainin)

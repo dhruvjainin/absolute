@@ -28,4 +28,4 @@ npx skills add maddhruv/absolute-ui
 
 ## Maintainers
 
-- [@maddhruv](https://github.com/maddhruv)
+- [@dhruvjainin](https://github.com/dhruvjainin)
