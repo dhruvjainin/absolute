@@ -31,4 +31,4 @@ For repo-wide dead code use `/absolute-prune`; for lint/type debt use `/absolute
 
 ## Maintainers
 
-- [@maddhruv](https://github.com/maddhruv)
+- [@dhruvjainin](https://github.com/dhruvjainin)

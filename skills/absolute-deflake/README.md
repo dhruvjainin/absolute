@@ -26,4 +26,4 @@ npx skills add maddhruv/absolute-deflake
 
 ## Maintainers
 
-- [@maddhruv](https://github.com/maddhruv)
+- [@dhruvjainin](https://github.com/dhruvjainin)

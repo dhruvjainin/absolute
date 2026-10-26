@@ -33,4 +33,4 @@ Every other `absolute-*` skill reads this config instead of re-detecting. Comman
 
 ## Maintainers
 
-- [@maddhruv](https://github.com/maddhruv)
+- [@dhruvjainin](https://github.com/dhruvjainin)

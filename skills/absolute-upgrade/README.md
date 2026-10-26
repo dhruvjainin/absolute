@@ -28,4 +28,4 @@ Runs on green `main`. For vulnerability-specific work use `/absolute-audit`.
 
 ## Maintainers
 
-- [@maddhruv](https://github.com/maddhruv)
+- [@dhruvjainin](https://github.com/dhruvjainin)
